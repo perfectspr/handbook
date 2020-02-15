@@ -2,12 +2,13 @@
 
 [https://perfectspr.github.io/handbook/](https://perfectspr.github.io/handbook/)
 
+用[docsify](https://docsify.js.org)搭建的文档知识库.
 - 常用代码
 - 最佳工具
 - 最佳实践
 - 设计思想
 - 解决方案
-- 摄影哲学
+- 摄影&哲学
 
 ## 目录
 * 编程基础
