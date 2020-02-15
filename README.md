@@ -55,7 +55,6 @@
   * [iOS](#ios)
 * 摄影
 * 哲学
-
 ## 捐助
-如果你觉得这个手册对你有帮助，[请赏杯咖啡喝吧](https://gitee.com/perfectspr/donate/blob/master/README.md) :heart:,
+[赏杯咖啡喝吧](https://gitee.com/perfectspr/donate/blob/master/README.md) :heart:,
 
