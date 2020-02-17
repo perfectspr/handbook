@@ -8,12 +8,8 @@
 - 最佳实践
 - 设计思想
 - 解决方案
-- 摄影&哲学
-
-如果你觉的本书不错，[请赏杯咖啡喝吧](https://gitee.com/perfectspr/donate/blob/master/README.md) :heart:,
-
+如果你觉的本书不错，[请赏杯咖啡喝吧](https://gitee.com/perfectspr/donate/blob/master/README.md) :heart:
 ## 目录
-
 * 开发环境
   * [基础配置](toolchain.md)
   * [Javascript](toolchain_js.md)
