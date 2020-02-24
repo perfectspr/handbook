@@ -150,16 +150,31 @@ choco install ConEmu Vim -y
 
 
 ## Mac/Linux 常用命令行工具
-- fzf      查找文件 历史命令查询 快速进入目录 文件预览 替代find
-- ripgrep  速度最快、理解git 的全文搜索利器, 替代grep
-- autojump 快速跳转目录
-- aria2c   全能下载工具，HTTP 下载和 BT 下载都有，性能也相当不错，速度不比迅雷慢
+- fzf
+
+  模糊搜索(Fizzy Finder)框架,Go语言编写,异步运行,VIM集成,需要和fd,ripgrep集成.
+
+- fd
+
+  Rust语言编写，查找文件 目录搜索，替代find
+
+- ripgrep
+ 
+  Rust语言编写，速度最快、理解git 的全文搜索利器, 替代grep
+
+- autojump
+
+  快速跳转目录
+
+- aria2c
+
+  全能下载工具，HTTP 下载和 BT 下载都有，性能也相当不错，速度不比迅雷慢
 
 ```bash
 # For Mac
-brew install fzf ripgrep autojump aria2
+brew install fzf ripgrep autojump aria2 fd
 # For Ubuntu
-sudo apt install fzf ripgrep autojump aria2
+sudo apt install fzf ripgrep autojump aria2 fd
 ```
 
 ## Visual Studio Code 插件
